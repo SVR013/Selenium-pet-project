@@ -1,0 +1,15 @@
+1686234002249	geckodriver	INFO	Listening on 127.0.0.1:51199
+1686234005305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51200" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\svr01\\AppData\\Local\\Temp\\rust_mozprofilezlxGRV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686234005734	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686234005739	Marionette	INFO	Listening on port 51209
+Read port: 51209
+WebDriver BiDi listening on ws://127.0.0.1:51200
+1686234005868	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51200/devtools/browser/4fd8860b-7de8-455e-8342-73fe4a06739a
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/, line 753: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/accounts/login/, line 624: ReferenceError: oscar is not defined
+1686234010216	Marionette	INFO	Stopped listening on port 51209
+Dynamically enable window occlusion 1
